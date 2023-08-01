@@ -1,0 +1,7 @@
+This file contain information about resources, version, dependecies
+
+JAVA version 11
+Spring Boot version: 2.7.14
+Port number for Spring app: 8111
+Port number for React app: 3111
+NodeJS version : 18.17.0 LTS
